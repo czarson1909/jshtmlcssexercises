@@ -1,0 +1,57 @@
+*{
+    margin:0;
+}
+.gora{
+    font-size: 35px;
+    background-color: #4e885C;
+    color: orange;
+    text-align: center;
+    height: 110px;
+    width: 100%;
+    
+}
+.logo{
+    height: 100px;
+    
+    vertical-align: bottom;
+}
+
+    
+
+.lewy{
+    background-color: #72A37D;
+    width: 30%;
+    height: 300px;
+    float: left;
+}
+.srodek{
+    background-color: #ACC3A9;
+    background-image: url(pizza.png);
+    float: left;
+    width: 40%;
+    height: 300px;
+}
+.prawy{
+    text-align: center;
+    background-color:#72A37D;
+    float: left;
+    width: 30%;
+    height: 300px;
+    list-style-position: inside;
+}
+.odsl{
+    background-color: orange;
+    color: green;
+    padding: 15px;
+}
+.dol{
+    background-color: #ACC3A9;
+    text-align: center;
+    height: 250px;
+    float: left;
+    width: 100%;
+}
+.stopka{
+    background-color: #4E885C;
+color: orange;
+}

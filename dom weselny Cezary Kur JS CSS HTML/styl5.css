@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+
+}
+
+.gora{
+    background-color: #1c59A7;
+    color: white;
+    font-size: 1cm;
+    text-align: center;
+    height: 80px;
+}
+.obr1{
+width: 200px;
+height: 70px;
+}
+.obr2{
+    width: 200px;
+    height: 70px;
+}
+.tabela{
+    width: 100%;
+    height: 100%;
+    margin: 0%;
+}
+.lewy{
+    background-color: #3a70b5;
+    width: 33%;
+    height: 200px;
+    float: left;
+}
+.srodek{
+    background-color: #5A8Ac8;
+    width: 33%;
+    height: 200px;
+    float: left;
+    
+}
+
+.prawy{
+    background-color: #86acdd;
+    width: 34%;
+    height: 200px;
+    float: left;
+    box-sizing: border-box;
+    padding: 20px;
+   
+}
+.clear{
+    clear: both;
+}
+.odsl{
+    background-color: yellow;
+    color: blue;
+    padding: 10px;
+}
+.dol{
+    height: 300px;
+    background-color: #86acdd;
+    text-align: center;
+}
+.stopka{
+    margin-bottom: 0%;
+    background-color: #1c59a7;
+    color: white;
+}

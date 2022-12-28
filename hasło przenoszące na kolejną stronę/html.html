@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    
+<script>
+function obrazek() {
+var pass = document.getElementById("hasło").value;
+console.log(pass);
+var prawidlowe = "haselko123";
+if (pass==prawidlowe) {
+    alert("Hasło prawidlowe!");
+    document.getElementById("wyswietl").innerHTML = "<a href='html2.html' target='test1'>LINK</a>";
+} 
+else alert("Hasło błędne, spróbuj ponownie!"); 
+  }
+</script>
+
+<div id="wyswietl">
+
+</div>
+
+
+Wprowadź hasło: <input type="password" id="hasło">
+<button onclick="obrazek()">Dalej!</button>
+<div><iframe name="test1"></iframe></div>
+
+
+
+
+</body>
+</html>

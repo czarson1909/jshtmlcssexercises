@@ -1,0 +1,36 @@
+body{
+    font-size: 18px;
+    font-family: Arial;
+    
+    margin: 2px;
+}
+p{
+    margin: 0;
+    
+}
+.link{
+    text-decoration: unset;
+    color: black;
+}
+.baner{
+    outline: 1px solid black;
+    width: 730px;
+    padding: 0;
+    
+}
+.menu{
+    outline: 1px solid black;
+    width: 40%;
+    height: 84px;
+    float: left;
+    
+}
+.right{
+    outline: 1px solid black;
+    height: 84px;
+    width: 60%;
+    float: left;
+}
+.insert{
+    width: 730px;
+}
